@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background: slategray;
+}
+.main{
+    margin:0 auto;
+    background: white;
+    max-width: 300px;
+    margin-top: 105px;
+    height: 60vh;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.main img{
+    width: 44vw;
+    height: 44vh;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+h5{
+    text-decoration: solid;
+    text-align: center;
+}
+p{
+    font-size: 12px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.74);
+}
